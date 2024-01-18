@@ -1,4 +1,4 @@
-# alu-web-development 
+# alu-web-development repository 
 ## Description
 This is a repository containing various lessons about web-development acquired from ALU in my first year
 
